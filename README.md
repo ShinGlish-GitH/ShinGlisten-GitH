@@ -10,9 +10,16 @@
 ## 🛠 Skills & Interests
 - 🐍 **Python / Numerical Simulation**
 - 🎹 **Music** Keyboard,Synthesizer & Music Production
-- 🎒 **Solo Travering** 🇯🇵,🇺🇸,🇨🇦,🇹🇭
+- 🎒 **Solo Traveling** 🇯🇵,🇺🇸,🇨🇦,🇹🇭
 - 💪 **Working out**
 - 🏎️ **Driving** Mazda NC Roadster
+
+## 📚 Research Interests
+- **Black Hole Physics** (ブラックホール物理学)
+- **Cosmology** (宇宙論)
+- **Astronomy & Astrophysics** (天文学・宇宙物理学)
+- **General Relativity** (一般相対性理論)
+- **Quantum Mechanics** (量子論)
 
 ## 🎯 Current Goal
 - Recovering my GPA by mastering computational physics! 🚀
